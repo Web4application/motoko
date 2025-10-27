@@ -12,7 +12,7 @@ Motoko dev server, or `mo-dev` for short, is a command line tool that features a
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/en/) ≥ 16:
+- [Node.js](https://nodejs.org/en/) ≥ 22:
 
 You can install `mo-dev` with `npm`:
 
